@@ -44,7 +44,7 @@ The calculator does operations on 2 numbers at a time - the current answer and t
 The square, cube, square root, modulo and the trigonometric functions - which I called "instant functions" are defined seperatly.
 Unlike the other functions (addition, subtraction, multiplication and division) - these functions do operations on the number currently written in the display and *not* the current answer. The result is then considered the second number in the equation.
 
-The default answer before any operation is *zero, and the default operation is **addition* - the first operation is always **0.0 + the number in the display**.
+The default answer before any operation is **zero**, and the default operation is **addition** - the first operation is always **0.0 + the number in the display**.
 
 I made sure to include a flag that helps clear the old equations from the text field when they're not needed anymore.
 
